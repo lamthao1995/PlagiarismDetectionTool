@@ -1,0 +1,38 @@
+<doc>
+	<docId>Định danh duy nhất của tài liệu</docId>	
+	<filepath>Đường dẫn vật lý của tài liệu</filepath>
+	<title>Tiêu đề của tài liệu</title>
+	<authors>
+		<author>Các tác giả</author>
+	</authors>
+<!--	<version>Phiên bản của tài liệu</version> -->
+	<affiliation>Đơn vị quản lý</affiliation>
+	<supervisors>
+		<supervisor>Danh sách người hướng dẫn</supervisor>
+	</supervisors>
+	<date>Ngày xuất bản tài liệu</date>
+	<keywords></keywords>
+	<abstract>Phần tóm tắt</abstract>
+	<intro>Phần giới thiệu</intro>
+	<chapters>
+		<chapter>
+			<title>Tiêu đề chương</title>
+			<content>Nội dung chương</content>
+		</chapter>
+	</chapters>
+	<conclusion>Phần kết luận và hướng phát triển</conclusion>
+	<references>
+		<reference>
+<!--[Uzuner et al. 2005] Özlem Uzuner, Boris Katz, and Thade Nahnsen, "Using Syntactic Information to Identify Plagiarism" Proceedings of the 2nd Workshop on Building Educational Applications Using NLP, pages 37–44, Ann Arbor, June 2005. Association for Computational ườiLinguistics.-->
+			<fullentry>Dòng được viết đầy đủ trong tài liệu:[Uzuner et al. 2005] Özlem Uzuner, Boris Katz, and Thade Nahnsen, "Using Syntactic Information to Identify Plagiarism" Proceedings of the 2nd Workshop on Building Educational Applications Using NLP, pages 37–44, Ann Arbor, June 2005. Association for Computational Linguistics.</fullentry>
+			<title>Tên bài báo:Using Syntactic Information to Identify Plagiarism</title>
+			<authors>Các tác giả: Özlem Uzuner, Boris Katz, and Thade Nahnsen</authors>
+			<booktitle>Tên sách/tên hội nghị: Proceedings of the 2nd Workshop on Building Educational
+Applications Using NLP</booktitle>
+<!--			<editor></editor>-->
+			<year>Năm: 2005</year>
+			<publisher>Nhà xuất bản: Association for Computational Linguistics</publisher>	
+			<url>Nguồn tài liệu</url>
+		</reference>
+	</references>
+</doc>
