@@ -1,0 +1,11 @@
+<document reference="suspicious-document00019.txt".txt>
+<feature
+name="detected-plagiarism"
+this-offset="4365"
+this-length="633"
+source-reference="source-document01128.txt.txt"
+source-offset="1706"
+source-length="755"
+/>
+</document>
+sim = 0.6478098011566573
