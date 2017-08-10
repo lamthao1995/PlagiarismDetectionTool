@@ -1,0 +1,11 @@
+<document reference="null".txt>
+<feature
+name="detected-plagiarism"
+this-offset="963"
+this-length="590"
+source-reference="null.txt"
+source-offset="195"
+source-length="682"
+/>
+</document>
+sim = 0.9814397348998652
